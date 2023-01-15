@@ -1,5 +1,5 @@
 # Mini-Shell
-This script can be used run a mini shell
+Is used run a mini shell
 
 ## Overview of the code
 After executing the code, the user can type his commands in the shell
